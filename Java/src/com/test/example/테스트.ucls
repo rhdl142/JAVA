@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.test.example.Test" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="194" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.test.example.WrapperObject" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex60_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="138" x="5995" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.test.example.DD" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex54_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="12836" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.test.example.Ex49_Override" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex49_Override.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1474" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.test.example.AAA" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="12585" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.test.example.Cup" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Cup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="87" x="4371" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="com.test.example.아빠" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12693" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="com.test.example.OverrideParent" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex49_Override.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="111" x="13899" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.test.example.AccessTest" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex36_Access.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="92" x="1754" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.test.example.Ex47_Abstract" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex47_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="11298" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.test.example.Bugles" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Bugles.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="162" x="6635" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.test.example.LG100" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex47_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="87" x="3445" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.test.example.Power" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex61_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="888" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.test.example.Desk" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex61_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="87" x="11171" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.test.example.Ex57" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex57.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="2212" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.test.example.Ex51_final" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex51_final.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="9742" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="17" language="java" name="com.test.example.엄마" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12131" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="18" language="java" name="com.test.example.OverrideChild" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex49_Override.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="101" x="13899" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.test.example.CastChild" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex52_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="14040" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="20" language="java" name="com.test.example.성별" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="119" x="8926" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="21" language="java" name="com.test.example.BBBB" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex57.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="87" x="14230" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="22" language="java" name="com.test.example.Color" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="119" x="11451" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="23" language="java" name="com.test.example.Ex59_enum" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="463" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.test.example.MyChild" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex63_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="102" x="13630" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.test.example.Ex34_Class" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.test.example.Student2" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="100" x="4823" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.test.example.Student" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex38_static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="133" x="1886" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.test.example.WrapperString" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex60_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="132" x="2880" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.test.example.Ex37_Class" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex37_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="113" x="1321" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.test.example.BB" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex54_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="12836" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.test.example.CCC" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="12566" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.test.example.Ex41_package" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex41_package.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="7196" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.test.example.CastParent" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex52_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="88" x="14050" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.test.example.Ex36_Access" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex36_Access.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="4034" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.test.example.Ex58_Interface" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="3052" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.test.example.Ex45_Inheritance" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex45_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="123" x="10507" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.test.example.Ex55_Interface" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex55_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="3881" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.test.example.Ex52_Casting" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex52_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="9085" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.test.example.Ex44_Inheritance" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="123" x="6837" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.test.example.Employee" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex36_Access.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="155" x="10823" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.test.example.Baby" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex36_Access.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="106" x="8485" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.test.example.WrapperBoolean" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex60_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="153" x="2524" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.test.example.부산향우회" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex38_static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="156" x="7000" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.test.example.Monitor" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex47_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="88" x="3372" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.test.example.BBB" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="12585" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="com.test.example.CC" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex54_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="12963" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="com.test.example.Ex63_Inheritance" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex63_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="123" x="2717" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.test.example.Adminstrator" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex56_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="130" x="5511" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.test.example.Color3" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="87" x="8631" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="com.test.example.HP400" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex53_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="95" x="14437" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.test.example.CCCC" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex57.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="14167" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.test.example.Ex35_Class" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex35_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="8332" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="com.test.example.Parent" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="13772" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="com.test.example.Keyboard" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex42_Constructor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="128" x="7835" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="com.test.example.Ex62_Generic" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex62_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="2059" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="com.test.example.Ex40_static" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex40_static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="113" x="1168" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="com.test.example.Boss1000" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex55_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="87" x="13234" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="58" language="java" name="com.test.example.직급" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="119" x="8003" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="59" language="java" name="com.test.example.Tea" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex61_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="103" x="7502" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="com.test.example.MyTime" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex50_Override.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="102" x="5090" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="61" language="java" name="com.test.example.불리언" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="119" x="6476" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="62" language="java" name="com.test.example.Color2" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex59_enum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="119" x="2365" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="63" language="java" name="com.test.example.사람" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12299" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="64" language="java" name="com.test.example.StaticTest" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex38_static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="87" x="5232" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="com.test.example.Bag" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex42_Constructor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="112" x="5359" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="com.test.example.홍길동" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="101" x="12444" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="com.test.example.Ex39_Type" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex39_Type.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="113" x="9895" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="com.test.example.EEE" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="12439" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="com.test.example.Computer" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex36_Access.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="150" x="7645" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="com.test.example.Ex42_Constructor" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex42_Constructor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="127" x="4498" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="com.test.example.Ex53_Casting" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex53_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="113" x="5681" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="com.test.example.Member" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex56_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="3500" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="com.test.example.Ex46_Object" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex46_Object.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1015" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="com.test.example.FinalParent" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex51_final.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="88" x="12018" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="com.test.example.Shape" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex48_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="87" x="13090" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="com.test.example.LG300" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex53_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="14572" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="com.test.example.Size" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="93" x="9238" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="com.test.example.SmartPhone" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="95" x="9607" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="com.test.example.FinalTest2" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex51_final.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="3754" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="com.test.example.Printer" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex53_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="88" x="14505" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="com.test.example.Circle" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex48_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="13090" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="com.test.example.Ex33_Class" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex33_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="7349" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="com.test.example.Ex43_Constructor" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex43_Constructor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="127" x="3205" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="com.test.example.Triangle" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex48_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="12963" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="com.test.example.FFF" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="12439" y="868"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="com.test.example.DDD" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="12566" y="868"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="com.test.example.Book" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Book.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="144" x="4187" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="com.test.example.AA" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex54_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="12836" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="com.test.example.Point" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="3627" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="com.test.example.WrapperInt" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex60_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="105" x="616" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="com.test.example.MyParent" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex63_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="87" x="13645" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="com.test.example.DBData" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex56_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="102" x="13361" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="93" language="java" name="com.test.example.DDDD" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex57.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="14294" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="94" language="java" name="com.test.example.Cola" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex43_Constructor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="87" x="761" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" name="com.test.example.Ex50_Override" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex50_Override.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="10670" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="96" language="java" name="com.test.example.직원" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12299" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="97" language="java" name="com.test.example.Speaker" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex55_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="103" x="13344" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="98" language="java" name="com.test.example.Ex61_Generic" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex61_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="10354" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" name="com.test.example.Box" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Box.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="196" x="9371" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="com.test.example.Test2" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex46_Object.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="1627" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="com.test.example.Dell200" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex47_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="105" x="3300" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="com.test.example.MyMath" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex34_Class.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="110" x="6173" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" name="com.test.example.Ex38_static" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex38_static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="10048" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="104" language="java" name="com.test.example.여자" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12135" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="105" language="java" name="com.test.example.부장" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12274" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="106" language="java" name="com.test.example.Ex54_Casting" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex54_Casting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="10201" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="107" language="java" name="com.test.example.Wrapper" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex60_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="102" x="321" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="108" language="java" name="com.test.example.Rectangle" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex48_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="13217" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="109" language="java" name="com.test.example.GenericClass" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex62_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="121" x="5834" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="110" language="java" name="com.test.example.IData" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex56_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="13487" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="111" language="java" name="com.test.example.Mouse" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex40_static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="128" x="8758" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="112" language="java" name="com.test.example.Snack" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex61_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="91" x="11610" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="113" language="java" name="com.test.example.NormalClass" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex62_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="118" x="4665" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="114" language="java" name="com.test.example.Child" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex44_Inheritance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="13772" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="115" language="java" name="com.test.example.Ex60_Generic" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex60_Generic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="113" x="12146" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="116" language="java" name="com.test.example.AAAA" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex57.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="87" x="4963" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="117" language="java" name="com.test.example.Price" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex42_Constructor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="110" x="11741" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="118" language="java" name="com.test.example.남자" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex58_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="12442" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="119" language="java" name="com.test.example.Ex56_Interface" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex56_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="6323" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="120" language="java" name="com.test.example.FileData" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex56_Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="102" x="13503" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="121" language="java" name="com.test.example.Ex48_Abstract" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex48_Abstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="11018" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="122" language="java" name="com.test.example.FinalTest" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Ex51_final.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="87" x="11891" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="123" language="java" name="com.test.example.Case" project="JavaTest" 
+    file="/JavaTest/src/com/test/example/Case.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="130" x="8162" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="124">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="96"/>  
+  </realization>  
+  <realization id="125">    
+    <end type="SOURCE" refId="92"/>    
+    <end type="TARGET" refId="110"/>  
+  </realization>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="81"/>    
+    <end type="TARGET" refId="75"/>  
+  </generalization>  
+  <generalization id="127">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <generalization id="128">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="88"/>  
+  </generalization>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="75"/>  
+  </generalization>  
+  <generalization id="132">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <generalization id="133">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="134">    
+    <bendpoint x="12268" y="500"/>    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="63"/>  
+  </generalization>  
+  <generalization id="135">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="118"/>  
+  </generalization>  
+  <generalization id="136">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="80"/>  
+  </generalization>  
+  <generalization id="137">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="80"/>  
+  </generalization>  
+  <generalization id="138">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="139">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="68"/>  
+  </generalization>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="104"/>  
+  </generalization>  
+  <generalization id="142">    
+    <end type="SOURCE" refId="104"/>    
+    <end type="TARGET" refId="63"/>  
+  </generalization>  
+  <generalization id="143">    
+    <end type="SOURCE" refId="101"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <generalization id="144">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <generalization id="145">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <generalization id="146">    
+    <end type="SOURCE" refId="105"/>    
+    <end type="TARGET" refId="96"/>  
+  </generalization>  
+  <realization id="147">    
+    <end type="SOURCE" refId="120"/>    
+    <end type="TARGET" refId="110"/>  
+  </realization>  
+  <generalization id="148">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="91"/>  
+  </generalization>  
+  <generalization id="149">    
+    <end type="SOURCE" refId="108"/>    
+    <end type="TARGET" refId="75"/>  
+  </generalization>  
+  <realization id="150">    
+    <bendpoint x="12702" y="500"/>    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="151">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="63"/>  
+  </generalization>  
+  <realization id="152">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="118"/>  
+  </realization>  
+  <realization id="153">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="93"/>  
+  </realization>  
+  <realization id="154">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="97"/>  
+  </realization>  
+  <generalization id="155">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <generalization id="156">    
+    <end type="SOURCE" refId="118"/>    
+    <end type="TARGET" refId="63"/>  
+  </generalization>  
+  <generalization id="157">    
+    <end type="SOURCE" refId="114"/>    
+    <end type="TARGET" refId="53"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

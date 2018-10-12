@@ -1,0 +1,101 @@
+
+텍스트 편집기
+- Editplus
+- Sublime Text
+- Atom
+- Bracket
+- Visual Studio Code
+- UltraEdit(X)
+
+
+프로그래머들이 선호하는 폰트
+- 가독성이 높은 폰트
+
+
+자바, Java
+- jdk-8u171-windows-x64.exe
+- 자바 개발 도구(JDK, Java Development Kit)
+	- 자바라는 언어를 사용해서 프로그램을 만드데 필요한 도구 제공
+- 자바 실행 환경(JRE, Java Runtime Environment)
+	- 자바로 만든 프로그램을 동작하는데 필요한 환경 제공
+
+
+자바 설치 확인
+- Win + R > cmd > 
+	1. java -version : JRE
+	2. javac -version : JDK
+
+JDK 폴더 Path 추가하기
+1. Win + Break
+2. 고급 시스템 설정
+3. 환경 변수
+	- 변수명 : JAVA_HOME
+	- 변수값 : JDK 설치 경로(C:\Program Files\Java\jdk1.8.0_171)
+
+	- 변수명 : JRE_HOME
+	- 변수값 : JDK 설치 경로(C:\Program Files\Java\jre1.8.0_171)
+
+	- Path 추가
+	- %JAVA_HOME%\bin
+	- %JRE_HOME%\bin
+
+콘솔 명령어
+1. cd(Change Directory)
+	- 폴더 이동
+	- cd 자식폴더명 : 자식 폴더로 이동하기
+	- cd .. : 부모 폴더로 이동하기
+	- cd \ : 최상위 폴더로 이동하기
+
+
+콘솔 기반 자바 응용 프로그램 작성 & 실행
+- 소스 파일 -> javac.exe : 컴파일(Compile)
+- 클래스 파일(실행 파일) -> java.exe : 실행(Run) 
+
+자바 프로그램 만들기
+
+1. 프로그램 소스 파일 작성
+	- Java 언어를 사용
+	- 파일 저장(*.java)
+	- class명과 파일명은 반드시 동일(*****)
+	- 자바는 대소문자를 철저하게 구분하는 언어
+	- 프로그래밍 언어는 보통 사람이 사용하는 표현으로 구성
+
+2. 컴파일, Compile
+	- 소스 파일 -> (번역) -> 프로그램 파일
+	- javac.exe  : 컴파일러, Compiler
+	- javac.exe 소스파일명 : 실행 방법
+	- 결과 : 클래스 파일, 실행 파일(*.class) 
+	- 결과물은 CPU가 인식 가능한 1,0으로 구성된 코드가 나온다.(기계어, Machine Code, Binary File, 이진 파일)
+	- 자바는 컴파일 결과가 조금 다르다.
+
+3. 프로그램 실행
+	- 클래스 파일(실행 파일) -> 실행
+	- java.exe : 실행기(컴파일러, 인터프리터)
+	- JIT 컴파일러(Just in Time)
+	- 현재 동작중인 일부 코드만 기계어 번역 & 실행 담당
+	- java.exe 클래스파일명
+
+
+번역 방식
+1. 컴파일
+	- 소스를 한꺼번에 번역
+	- 결과물 발생 -> 번역본(원본 필요X)
+	- 장점 : 자주 실행 이익(2번째부터는 번역 필요X)
+	- 단점 : 초기 번역 고비용 발생, 소스 일부 수정 -> 전체 컴파일
+
+2. 인터프리터
+	- 소스를 필요한 부분만 실시간 일부 번역
+	- 결과물 발생 X
+	- 단점 : 자주 실행 손해(매번 동일하게 번역)
+	- 장점 : 수정 비용 저비용
+
+
+
+
+
+
+
+
+
+
+
